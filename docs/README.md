@@ -13,9 +13,9 @@ University students and staff attempting to follow specific health, fitness, or 
 
 ## Documents
 
-- [Introduction Document (PDF)](docs/CSC649_Assignment1.pdf)
-- [Fishbone Diagram (.drawio)](docs/fishbone%20diagram%20CSC649.drawio)
-- [Activity Diagram (.drawio)](docs/Activity%20Diagram.drawio)
+- [Introduction Document (PDF)](CSC649_Assignment1.pdf)
+- [Fishbone Diagram (.drawio)](fishbone%20diagram%20CSC649.drawio)
+- [Activity Diagram (.drawio)](Activity%20Diagram.drawio)
 
 ## Technology
 
