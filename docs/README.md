@@ -1,25 +1,18 @@
-# Documentation Folder
-This folder contains all project documentation and architectural diagrams.
-
 # CSC649-Assignment-1
 
 ## Intelligent Canteen Diet-Matching Decision Support System (IDSS)
 
-University students and staff attempting to follow specific health, fitness, or medical diets struggle to make informed food choices at campus canteens due to a complete lack of transparent nutritional information. This project explores how Fuzzy Logic and Expert Systems can help recommend suitable meals based on individual dietary constraints.
+University students and staff attempting to follow specific health, fitness, or medical diets struggle to make informed food choices at campus canteens due to a complete lack of transparent nutritional information.
 
 ## Problem Statement
 
-University students and staff attempting to follow specific health, fitness, or medical diets struggle to make informed food choices at campus canteens due to a complete lack of transparent nutritional information. Cafeteria stalls offer diverse local dishes without displaying calorie counts, macronutrient breakdowns, or ingredient details, leaving diners to estimate their nutritional intake blindly. As a concrete example, a student trying to maintain a calorie deficit or high-protein diet for fitness goals cannot accurately track meals when choosing mixed rice (Nasi Campur), often resulting in poor dietary adherence and frustration.
+University students and staff attempting to follow specific health, fitness, or medical diets struggle to make informed food choices at campus canteens due to a complete lack of transparent nutritional information. Cafeteria stalls offer diverse local dishes without displaying calorie counts, macronutrient breakdowns, or ingredient details, leaving diners to estimate their nutritional intake blindly. As a concrete example, a student trying to maintain a calorie deficit or high-protein diet for fitness goals cannot accurately track meals when choosing mixed rice (Nasi Campur), often resulting in poor dietary adherence and frustration. This systemic information gap makes consistent healthy eating on campus nearly impossible, negatively impacting student wellness and academic energy levels.
 
 ## Documents
 
-- [Introduction Document (PDF)](CSC649_Assignment1.pdf)
-- [Fishbone Diagram (.drawio)](fishbone%20diagram%20CSC649.drawio)
-- [Activity Diagram (.drawio)](Activity%20Diagram.drawio)
-
-## Technology
-
-Fuzzy Logic & Expert Systems: evaluating imprecise nutritional criteria and ranking canteen dishes based on user-defined constraints.
+- [Introduction Document (PDF)](docs/CSC649_Assignment1.pdf)
+- [Fishbone Diagram (.drawio)](docs/fishbone%20diagram%20CSC649.drawio)
+- [Activity Diagram (.drawio)](docs/Activity%20Diagram.drawio)
 
 ## Status
 
